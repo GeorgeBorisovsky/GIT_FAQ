@@ -1,6 +1,8 @@
 # ЭТО ФАЙЛ С ОСНОВНЫМИ GIT КОМАНДАМИ
+This file was compiled and uploaded to GIT by George Borisovsky.
 
---------
+
+
 
 ## команды управления GIT
 ------
